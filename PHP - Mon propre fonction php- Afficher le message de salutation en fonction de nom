@@ -1,0 +1,26 @@
+
+
+<?php
+
+function  MBOTE_NA_YO_ ($nom)
+
+
+{
+
+echo 'MBOTE_NA_YO_ '.$nom.'  <br/>';
+
+}
+
+
+MBOTE_NA_YO_ ('AFRIQUE');
+
+MBOTE_NA_YO_ ('AMERIQUE');
+
+MBOTE_NA_YO_ ('EUROPE');
+
+MBOTE_NA_YO_ ('ASIE');
+
+MBOTE_NA_YO_ ('OCEANIE');
+
+
+?>
